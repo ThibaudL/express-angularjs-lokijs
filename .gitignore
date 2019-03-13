@@ -8,3 +8,4 @@ public/dist/**
 nginx/conf/nginx.conf
 nginx/conf/nginx.tmp.conf
 .npmrc
+*.iml
