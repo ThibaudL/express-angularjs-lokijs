@@ -1,0 +1,10 @@
+node_modules
+.idea
+logs/**
+server/logs/**
+nginx/logs/**
+server/db/data.json
+public/dist/**
+nginx/conf/nginx.conf
+nginx/conf/nginx.tmp.conf
+.npmrc
