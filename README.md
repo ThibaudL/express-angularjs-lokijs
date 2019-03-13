@@ -1,3 +1,8 @@
+# Dependencies :
+- express : for the server side (serving the web app & exposing REST API)
+- angularjs : for the web application
+- lokijs : for a simple JSON database
+
 # Getting started : 
 
 - go inside your workspace (a folder named "express-angularjs-lokijs" will be created afterward)
